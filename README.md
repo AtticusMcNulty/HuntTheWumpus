@@ -15,7 +15,7 @@ Normal mode:</br>
 <img width="151" alt="Screenshot 2024-09-19 at 8 15 39 PM" src="https://github.com/user-attachments/assets/2e1225c2-d1be-4e63-af88-1095f8682b2e"></br>
 Debug mode:</br>
 <img width="151" alt="Screenshot 2024-09-19 at 7 54 26 PM" src="https://github.com/user-attachments/assets/8b1da4e1-1f16-4ff2-9164-07fe3412af7d"></br>
-Below the board, messages are printed out indicating any entities in an adjacent square. In the screenshot below, we see the player is next to two bats and the gold, thus two bat messages and one gold message are printed.</br>
+Below the board, messages are printed out indicating any entities in an adjacent square. In the screenshot below, we see the player is next to two bats and the gold, thus two bat percepts and one gold percept are printed.</br>
 <img width="218" alt="Screenshot 2024-09-19 at 7 58 49 PM" src="https://github.com/user-attachments/assets/6af35350-43ec-4b4b-88a8-bc7f4bffcd3a"></br>
 To move the player, the standard W A S D keys are used. W to go up, A to go right, S to go down, and D to go left. If the user enters a key that moves in an out of bounds direction, they will be reprompted for input.</br>
 <img width="717" alt="Screenshot 2024-09-19 at 8 01 43 PM" src="https://github.com/user-attachments/assets/0d9f0ca0-09f0-4cb7-b828-8574b05586d8"></br>
