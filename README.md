@@ -16,15 +16,15 @@ Normal mode:</br>
 Debug mode:</br>
 <img width="151" alt="Screenshot 2024-09-19 at 7 54 26 PM" src="https://github.com/user-attachments/assets/8b1da4e1-1f16-4ff2-9164-07fe3412af7d"></br>
 Below the board, messages are printed out indicating any entities in an adjacent square. In the screenshot below, we see the player is next to two bats and the gold, thus two bat messages and one gold message are printed.</br>
-<img width="218" alt="Screenshot 2024-09-19 at 7 58 49 PM" src="https://github.com/user-attachments/assets/6af35350-43ec-4b4b-88a8-bc7f4bffcd3a">
+<img width="218" alt="Screenshot 2024-09-19 at 7 58 49 PM" src="https://github.com/user-attachments/assets/6af35350-43ec-4b4b-88a8-bc7f4bffcd3a"></br>
 To move the player, the standard W A S D keys are used. W to go up, A to go right, S to go down, and D to go left. If the user enters a key that moves in an out of bounds direction, they will be reprompted for input.</br>
-<img width="717" alt="Screenshot 2024-09-19 at 8 01 43 PM" src="https://github.com/user-attachments/assets/0d9f0ca0-09f0-4cb7-b828-8574b05586d8">
+<img width="717" alt="Screenshot 2024-09-19 at 8 01 43 PM" src="https://github.com/user-attachments/assets/0d9f0ca0-09f0-4cb7-b828-8574b05586d8"></br>
 Users also possess the option of firing an arrow. Arrows are used to kill the Wumpus and can travel 3 blocks in any direction. After firing an arrow, a message will let you know the number of arrows you have left. An additional message will let you know if you killed the Wumpus. The Wumpus has a 75% chance of moving if you miss a shot.</br>
-<img width="749" alt="Screenshot 2024-09-19 at 8 02 57 PM" src="https://github.com/user-attachments/assets/626fb599-fae5-4988-9772-9d67628a4a6e">
+<img width="749" alt="Screenshot 2024-09-19 at 8 02 57 PM" src="https://github.com/user-attachments/assets/626fb599-fae5-4988-9772-9d67628a4a6e"></br>
 There are two ways a player can die: they fall into a pit or run into the Wumpus. In either case, a death message will appear and the game will end.
-<img width="333" alt="Screenshot 2024-09-19 at 8 09 10 PM" src="https://github.com/user-attachments/assets/8f188774-75b6-4dda-9eff-8675ea1b2808">
+<img width="333" alt="Screenshot 2024-09-19 at 8 09 10 PM" src="https://github.com/user-attachments/assets/8f188774-75b6-4dda-9eff-8675ea1b2808"></br>
 If you run into bats, you will be notified and your movement inputs will be reversed for 5 moves.
-<img width="675" alt="Screenshot 2024-09-19 at 8 13 07 PM" src="https://github.com/user-attachments/assets/3a1a565c-6909-4735-9588-d60e16e9fb06">
+<img width="675" alt="Screenshot 2024-09-19 at 8 13 07 PM" src="https://github.com/user-attachments/assets/3a1a565c-6909-4735-9588-d60e16e9fb06"></br>
 As described above, the goal of the game is to kill the Wumpus, get the gold, and return to your starting coordinates. Upon completion the game will end and you will be congratulated for your victory.
-<img width="533" alt="Screenshot 2024-09-19 at 8 14 57 PM" src="https://github.com/user-attachments/assets/f6079cd5-a917-4d96-aa4d-d2172f72d43d">
+<img width="533" alt="Screenshot 2024-09-19 at 8 14 57 PM" src="https://github.com/user-attachments/assets/f6079cd5-a917-4d96-aa4d-d2172f72d43d"></br>
 
