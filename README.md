@@ -28,12 +28,12 @@ To move the player, the standard W A S D keys are used. W to go up, A to go righ
 Users also possess the option of firing an arrow. Arrows are used to kill the Wumpus and can travel 3 blocks in any direction. After firing an arrow, a message will let you know the number of arrows you have left. An additional message will let you know if you killed the Wumpus. The Wumpus has a 75% chance of moving if you miss a shot.</br>
 <img width="749" alt="Screenshot 2024-09-19 at 8 02 57 PM" src="https://github.com/user-attachments/assets/626fb599-fae5-4988-9772-9d67628a4a6e"></br>
 
-There are two ways a player can die: they fall into a pit or run into the Wumpus. In either case, a death message will appear and the game will end.
+There are two ways a player can die: they fall into a pit or run into the Wumpus. In either case, a death message will appear and the game will end.</br>
 <img width="333" alt="Screenshot 2024-09-19 at 8 09 10 PM" src="https://github.com/user-attachments/assets/8f188774-75b6-4dda-9eff-8675ea1b2808"></br>
 
-If you run into bats, you will be notified and your movement inputs will be reversed for 5 moves.
+If you run into bats, you will be notified and your movement inputs will be reversed for 5 moves.</br>
 <img width="675" alt="Screenshot 2024-09-19 at 8 13 07 PM" src="https://github.com/user-attachments/assets/3a1a565c-6909-4735-9588-d60e16e9fb06"></br>
 
-As described above, the goal of the game is to kill the Wumpus, get the gold, and return to your starting coordinates. Upon completion the game will end and you will be congratulated for your victory.
+As described above, the goal of the game is to kill the Wumpus, get the gold, and return to your starting coordinates. Upon completion the game will end and you will be congratulated for your victory.</br>
 <img width="533" alt="Screenshot 2024-09-19 at 8 14 57 PM" src="https://github.com/user-attachments/assets/f6079cd5-a917-4d96-aa4d-d2172f72d43d"></br>
 
