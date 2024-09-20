@@ -12,7 +12,7 @@ Program begins by prompting user to enter the dimensions for the game. Error han
 <img width="1211" alt="Screenshot 2024-09-19 at 7 49 30 PM" src="https://github.com/user-attachments/assets/6fe475dd-a4dc-4a72-bd49-3d2cb96dfff4">
 After the user selects whether or not they want to run the game in "debug" mode. In debug mode, all entities are made visible by a char inside a tile (e.g. b for bats), as opposed to each cell simply being empty. When they make their choice, the program will print the starting board. Entities are spawned randomly, including the user whose location is highlighted with a star (*).</br>
 Normal mode:</br>
-<img width="151" alt="Screenshot 2024-09-19 at 8 15 39 PM" src="https://github.com/user-attachments/assets/2e1225c2-d1be-4e63-af88-1095f8682b2e">
+<img width="151" alt="Screenshot 2024-09-19 at 8 15 39 PM" src="https://github.com/user-attachments/assets/2e1225c2-d1be-4e63-af88-1095f8682b2e"></br>
 Debug mode:</br>
 <img width="151" alt="Screenshot 2024-09-19 at 7 54 26 PM" src="https://github.com/user-attachments/assets/8b1da4e1-1f16-4ff2-9164-07fe3412af7d">
 Below the board, messages are printed out indicating any entities in an adjacent square. In the screenshot below, we see the player is next to two bats and the gold, thus two bat messages and one gold message are printed.</br>
