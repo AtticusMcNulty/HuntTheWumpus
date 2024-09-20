@@ -4,8 +4,10 @@ Hunt the Wumpus is a game where players aim to kill the Wumpus, collect gold, an
 
 ## How to Play
 You can download this github project onto your own device and run the program in a terminal with two commands (note the first command may take a second to compile everything):
-- g++ main.cpp game.cpp game.h room.cpp room.h event.cpp event.h bats.cpp bats.h wumpus.cpp wumpus.h pits.cpp pits.h gold.cpp gold.h
-- ./a.out
+```
+g++ main.cpp game.cpp game.h room.cpp room.h event.cpp event.h bats.cpp bats.h wumpus.cpp wumpus.h pits.cpp pits.h gold.cpp gold.h
+./a.out
+```
 
 ## Walkthrough
 Program begins by prompting user to enter the dimensions for the game. Error handling dictates the number of columns and rows must both exceed three.</br>
